@@ -6,4 +6,4 @@ As a Machine learning engineer in SmartAd, one of our tasks was to design a reli
 ## Hypothesis Testing
 Hypothesis testing is the cornerstone of evidence based decision making. The A/B testing framework is the most used statistical framework for making gradual but important changes in every aspect of today’s business.
 ## Results
-We performed two types of hypothesis testing algorithms on our data. We performed A classical z-test and the Evan Miller Sequential A/B test. Our results are found in jupyter notebook in the _notebooks_ folder. 
+We performed two types of hypothesis testing algorithms on our data. We performed A classical ```z-test``` and the ```Evan Miller Sequential A/B test```. Our results are found in jupyter notebook in the ```notebooks``` folder. 
